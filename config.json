@@ -1,0 +1,10 @@
+{
+    "people_amount_to_leave": 1,
+    "autofill": false,
+    "gmail": "Gmail",
+    "password": "Password",
+    "start_app_on_chrome_close": true,
+    "language": "estonia",
+    "raise_hand": false,
+    "hands": 5
+}
