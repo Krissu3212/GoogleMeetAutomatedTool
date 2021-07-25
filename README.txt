@@ -1,6 +1,6 @@
 # GoogleMeetAutomatedTool
 
-Made by Kristjan Tiido aka Hullumeelne
+Made by Hullumeelne
 
 This program lets you schedule Google Meetings, you can set:
 - time to join Meeting
